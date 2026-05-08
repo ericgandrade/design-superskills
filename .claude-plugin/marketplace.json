@@ -1,0 +1,29 @@
+{
+  "name": "design-superskills",
+  "owner": {
+    "name": "Eric Andrade",
+    "email": "egandrade@gmail.com"
+  },
+  "metadata": {
+    "description": "9 skills for designers and front-end teams: UI/UX intelligence, brand identity, design systems, component styling, Mermaid/Excalidraw diagrams, HTML presentations, and banner design."
+  },
+  "plugins": [
+    {
+      "name": "design-superskills",
+      "source": {
+        "source": "github",
+        "repo": "ericgandrade/design-superskills"
+      },
+      "description": "9 skills for designers and front-end teams: UI/UX intelligence, brand identity, design systems, component styling, Mermaid/Excalidraw diagrams, HTML presentations, and banner design.",
+      "author": {
+        "name": "Eric Andrade"
+      },
+      "homepage": "https://github.com/ericgandrade/design-superskills",
+      "repository": "https://github.com/ericgandrade/design-superskills",
+      "license": "MIT",
+      "keywords": ["design", "ui-ux", "brand", "design-system", "diagrams"],
+      "category": "productivity",
+      "tags": ["design", "ui-ux", "brand", "diagrams", "presentations"]
+    }
+  ]
+}

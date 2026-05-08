@@ -1,0 +1,43 @@
+{
+  "name": "design-superskills",
+  "version": "1.0.0",
+  "description": "9 AI skills for UI/UX design, brand identity, design systems, component styling, diagrams, presentations, and banner design. Works with Claude Code, GitHub Copilot, and 6 more AI platforms.",
+  "main": "lib/index.js",
+  "bin": {
+    "design-superskills": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo '✅ design-superskills - test passed'",
+    "build": "cd .. && ./scripts/build-skills.sh",
+    "prebuild": "cd .. && ./scripts/build-skills.sh",
+    "link": "npm link",
+    "unlink": "npm unlink -g design-superskills",
+    "generate-index": "cd .. && python3 scripts/generate-skills-index.py",
+    "generate-catalog": "cd .. && python3 scripts/generate-catalog.py",
+    "generate-all": "npm run build && npm run generate-index && npm run generate-catalog",
+    "prepublishOnly": "npm run build && npm test",
+    "version": "git add -A"
+  },
+  "keywords": ["design", "ui-ux", "brand", "design-system", "figma", "diagrams", "claude", "copilot", "ai", "skills"],
+  "author": "Eric Andrade",
+  "license": "MIT",
+  "engines": { "node": ">=14.0.0" },
+  "files": ["bin/", "lib/", "README.md"],
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.6.5",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^8.2.5",
+    "js-yaml": "^4.1.0",
+    "ora": "^5.4.1",
+    "semver": "^7.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericgandrade/design-superskills.git"
+  },
+  "bugs": { "url": "https://github.com/ericgandrade/design-superskills/issues" },
+  "homepage": "https://github.com/ericgandrade/design-superskills#readme"
+}

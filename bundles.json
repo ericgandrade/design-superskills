@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-05-08T00:00:00Z",
+  "bundles": {
+    "ui-ux": {
+      "name": "UI/UX Design",
+      "description": "Comprehensive UI/UX design intelligence and component styling.",
+      "skills": ["ui-ux-pro-max","ui-styling","design"],
+      "target": "Front-end developers, product designers"
+    },
+    "brand-identity": {
+      "name": "Brand & Identity",
+      "description": "Brand identity, design systems, and token architecture.",
+      "skills": ["brand","design-system"],
+      "target": "Brand designers, design leads"
+    },
+    "visual": {
+      "name": "Visual & Diagrams",
+      "description": "Diagrams, presentations, and banner design.",
+      "skills": ["mermaid-diagram","excalidraw-diagram","slides","banner-design"],
+      "target": "Developers, content creators, marketers"
+    },
+    "all": {
+      "name": "All Design Skills",
+      "description": "Complete design toolkit — all 9 skills.",
+      "skills": ["ui-ux-pro-max","design","design-system","brand","ui-styling",
+                 "slides","banner-design","excalidraw-diagram","mermaid-diagram"],
+      "target": "Designers, front-end developers, product teams"
+    }
+  }
+}
