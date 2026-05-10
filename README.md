@@ -1,4 +1,4 @@
-# 🎨 Design Superskills v1.0.0
+# 🎨 Design Superskills v1.0.1
 
 9 AI skills for UI/UX design, brand identity, design systems, diagrams, presentations, and banner design. Install once across all 8 AI platforms.
 
@@ -91,23 +91,23 @@ claude --plugin-dir ./design-superskills
 ### 🖥️ UI/UX Design
 | Skill | Version | Purpose |
 |-------|---------|---------|
-| **ui-ux-pro-max** | v1.0.0 | Comprehensive design intelligence for web and mobile — 50+ styles, 161 color palettes, 57 font pairings, UX guidelines, and stack-specific best practices across React, Next.js, Vue, Svelte, Angular, Astro, Flutter, SwiftUI, and more |
-| **design** | v1.0.0 | Full design suite: logo generation (55 styles), corporate identity (50 deliverables), HTML presentations, banner design (22 styles), icon design (15 styles, SVG), and social photo generation |
-| **ui-styling** | v1.0.0 | UI styling with shadcn/ui, Tailwind CSS, responsive layouts, accessible components, dark mode implementation, and consistent cross-platform styling patterns |
+| **ui-ux-pro-max** | v1.0.1 | Comprehensive design intelligence for web and mobile — 50+ styles, 161 color palettes, 57 font pairings, UX guidelines, and stack-specific best practices across React, Next.js, Vue, Svelte, Angular, Astro, Flutter, SwiftUI, and more |
+| **design** | v1.0.1 | Full design suite: logo generation (55 styles), corporate identity (50 deliverables), HTML presentations, banner design (22 styles), icon design (15 styles, SVG), and social photo generation |
+| **ui-styling** | v1.0.1 | UI styling with shadcn/ui, Tailwind CSS, responsive layouts, accessible components, dark mode implementation, and consistent cross-platform styling patterns |
 
 ### 🎯 Brand & Identity
 | Skill | Version | Purpose |
 |-------|---------|---------|
-| **brand** | v1.0.0 | Brand identity guidance: brand voice definition, visual identity standards, messaging frameworks, asset management, consistency reviews, style guides, color palette management, and typography specifications |
-| **design-system** | v1.0.0 | Create and maintain design systems with three-layer token architecture (primitive, semantic, component), CSS variables, spacing/typography scales, and component specifications |
+| **brand** | v1.0.1 | Brand identity guidance: brand voice definition, visual identity standards, messaging frameworks, asset management, consistency reviews, style guides, color palette management, and typography specifications |
+| **design-system** | v1.0.1 | Create and maintain design systems with three-layer token architecture (primitive, semantic, component), CSS variables, spacing/typography scales, and component specifications |
 
 ### 📊 Visual & Diagrams
 | Skill | Version | Purpose |
 |-------|---------|---------|
-| **slides** | v1.0.0 | Strategic HTML presentations with Chart.js data visualizations, design tokens, responsive layouts, copywriting formulas (AIDA, PAS), and contextual slide strategies for pitches, reports, and education |
-| **banner-design** | v1.0.0 | Design banners in any of 22 styles (minimalist, gradient, glassmorphism, neon, retro, geometric, etc.) for social media, advertising, web heroes, and print across all major platforms |
-| **mermaid-diagram** | v1.0.0 | Generate Mermaid diagram syntax from plain-language descriptions — flowchart, sequence, class, state, ER, mindmap, Gantt, and more |
-| **excalidraw-diagram** | v1.0.0 | Create hand-drawn style diagrams in Excalidraw JSON format — architecture sketches, concept maps, user flows, C4 context, and org charts. Ready to paste into Obsidian or Excalidraw directly |
+| **slides** | v1.0.1 | Strategic HTML presentations with Chart.js data visualizations, design tokens, responsive layouts, copywriting formulas (AIDA, PAS), and contextual slide strategies for pitches, reports, and education |
+| **banner-design** | v1.0.1 | Design banners in any of 22 styles (minimalist, gradient, glassmorphism, neon, retro, geometric, etc.) for social media, advertising, web heroes, and print across all major platforms |
+| **mermaid-diagram** | v1.0.1 | Generate Mermaid diagram syntax from plain-language descriptions — flowchart, sequence, class, state, ER, mindmap, Gantt, and more |
+| **excalidraw-diagram** | v1.0.1 | Create hand-drawn style diagrams in Excalidraw JSON format — architecture sketches, concept maps, user flows, C4 context, and org charts. Ready to paste into Obsidian or Excalidraw directly |
 
 ## 🎯 Curated Bundles
 
