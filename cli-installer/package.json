@@ -1,6 +1,6 @@
 {
   "name": "design-superskills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "9 AI skills for UI/UX design, brand identity, design systems, component styling, diagrams, presentations, and banner design. Works with Claude Code, GitHub Copilot, and 6 more AI platforms.",
   "main": "lib/index.js",
   "bin": {
@@ -18,11 +18,28 @@
     "prepublishOnly": "npm run build && npm test",
     "version": "git add -A"
   },
-  "keywords": ["design", "ui-ux", "brand", "design-system", "figma", "diagrams", "claude", "copilot", "ai", "skills"],
+  "keywords": [
+    "design",
+    "ui-ux",
+    "brand",
+    "design-system",
+    "figma",
+    "diagrams",
+    "claude",
+    "copilot",
+    "ai",
+    "skills"
+  ],
   "author": "Eric Andrade",
   "license": "MIT",
-  "engines": { "node": ">=14.0.0" },
-  "files": ["bin/", "lib/", "README.md"],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md"
+  ],
   "dependencies": {
     "adm-zip": "^0.5.16",
     "axios": "^1.6.5",
@@ -38,6 +55,8 @@
     "type": "git",
     "url": "git+https://github.com/ericgandrade/design-superskills.git"
   },
-  "bugs": { "url": "https://github.com/ericgandrade/design-superskills/issues" },
+  "bugs": {
+    "url": "https://github.com/ericgandrade/design-superskills/issues"
+  },
   "homepage": "https://github.com/ericgandrade/design-superskills#readme"
 }
