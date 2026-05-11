@@ -1,0 +1,222 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-05-10T22:06:58.153564Z",
+  "skills": [
+    {
+      "name": "banner-design",
+      "version": "1.0.0",
+      "description": "This skill should be used when the user needs to design banners in any of 22 styles (minimalist, gradient, bold typography, glassmorphism, neon, retro, geometric, etc.) for social media, advertising, website heroes, or print across Facebook, Twitter/X, LinkedIn, YouTube, Instagram, and Google Display.",
+      "category": "design",
+      "tags": [
+        "banner",
+        "ads",
+        "social-media",
+        "svg",
+        "print",
+        "gemini-ai"
+      ],
+      "risk": "safe",
+      "platforms": [
+        "All (GitHub Copilot",
+        "Claude Code",
+        "Codex",
+        "OpenCode",
+        "Gemini CLI",
+        "Antigravity",
+        "Cursor",
+        "AdaL)"
+      ],
+      "triggers": []
+    },
+    {
+      "name": "brand",
+      "version": "1.0.0",
+      "description": "This skill should be used when the user needs brand identity guidance including brand voice definition, visual identity standards, messaging frameworks, asset management, brand consistency reviews, style guides, color palette management, and typography specifications.",
+      "category": "design",
+      "tags": [
+        "brand",
+        "voice",
+        "identity",
+        "messaging",
+        "style-guide"
+      ],
+      "risk": "safe",
+      "platforms": [
+        "All (GitHub Copilot",
+        "Claude Code",
+        "Codex",
+        "OpenCode",
+        "Gemini CLI",
+        "Antigravity",
+        "Cursor",
+        "AdaL)"
+      ],
+      "triggers": []
+    },
+    {
+      "name": "design",
+      "version": "1.0.0",
+      "description": "This skill should be used when the user needs comprehensive design assistance including brand identity, design tokens, UI styling, logo generation (55 styles, Gemini AI), corporate identity programs (50 deliverables), HTML presentations, banner design (22 styles), icon design (15 styles, SVG), and social photo generation across major platforms.",
+      "category": "design",
+      "tags": [
+        "logo",
+        "branding",
+        "identity",
+        "banner",
+        "icon",
+        "social-media"
+      ],
+      "risk": "safe",
+      "platforms": [
+        "All (GitHub Copilot",
+        "Claude Code",
+        "Codex",
+        "OpenCode",
+        "Gemini CLI",
+        "Antigravity",
+        "Cursor",
+        "AdaL)"
+      ],
+      "triggers": []
+    },
+    {
+      "name": "design-system",
+      "version": "1.0.0",
+      "description": "This skill should be used when the user needs to create, maintain, or migrate a design system including three-layer token architecture (primitive, semantic, component), CSS variables, spacing and typography scales, component specifications, and brand-compliant presentation slides.",
+      "category": "design",
+      "tags": [
+        "tokens",
+        "components",
+        "theming",
+        "css-variables",
+        "typography"
+      ],
+      "risk": "safe",
+      "platforms": [
+        "All (GitHub Copilot",
+        "Claude Code",
+        "Codex",
+        "OpenCode",
+        "Gemini CLI",
+        "Antigravity",
+        "Cursor",
+        "AdaL)"
+      ],
+      "triggers": []
+    },
+    {
+      "name": "excalidraw-diagram",
+      "version": "1.0.0",
+      "description": "This skill should be used when the user needs to create a diagram using Excalidraw \u2014 a hand-drawn style whiteboard tool. Use when the user wants a sketch-style architecture diagram, system design, concept map, user flow, or any visual that benefits from the informal, freehand aesthetic of Excalidraw. Outputs an embedded Excalidraw file ready for use in Obsidian or standalone.",
+      "category": "Content / Visualization",
+      "tags": [
+        "excalidraw",
+        "diagram",
+        "whiteboard",
+        "architecture",
+        "sketch",
+        "obsidian"
+      ],
+      "risk": "Low",
+      "platforms": [
+        "All 8"
+      ],
+      "triggers": []
+    },
+    {
+      "name": "mermaid-diagram",
+      "version": "1.0.0",
+      "description": "This skill should be used when the user needs to create, edit, or convert a diagram into Mermaid syntax. Use when the user asks for a flowchart, sequence diagram, class diagram, state diagram, entity-relationship diagram, mindmap, Gantt chart, or any other diagram type that Mermaid supports. Outputs a ready-to-render Mermaid code block.",
+      "category": "Content / Visualization",
+      "tags": [
+        "mermaid",
+        "diagram",
+        "flowchart",
+        "sequence",
+        "visualization",
+        "obsidian"
+      ],
+      "risk": "Low",
+      "platforms": [
+        "All 8"
+      ],
+      "triggers": []
+    },
+    {
+      "name": "slides",
+      "version": "1.0.0",
+      "description": "This skill should be used when the user needs to create strategic HTML presentations with Chart.js data visualizations, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies for pitches, reports, or educational content.",
+      "category": "content",
+      "tags": [
+        "slides",
+        "presentation",
+        "html",
+        "chart.js",
+        "copywriting"
+      ],
+      "risk": "safe",
+      "platforms": [
+        "All (GitHub Copilot",
+        "Claude Code",
+        "Codex",
+        "OpenCode",
+        "Gemini CLI",
+        "Antigravity",
+        "Cursor",
+        "AdaL)"
+      ],
+      "triggers": []
+    },
+    {
+      "name": "ui-styling",
+      "version": "1.0.0",
+      "description": "This skill should be used when the user needs UI styling guidance including shadcn/ui components, Tailwind CSS utility-first styling, responsive layouts, accessible components, dark mode implementation, canvas-based visual designs, or consistent styling patterns across web and mobile applications.",
+      "category": "design",
+      "tags": [
+        "css",
+        "tailwind",
+        "shadcn",
+        "styling",
+        "responsive",
+        "dark-mode"
+      ],
+      "risk": "safe",
+      "platforms": [
+        "All (GitHub Copilot",
+        "Claude Code",
+        "Codex",
+        "OpenCode",
+        "Gemini CLI",
+        "Antigravity",
+        "Cursor",
+        "AdaL)"
+      ],
+      "triggers": []
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "version": "1.0.0",
+      "description": "This skill should be used when the user needs comprehensive UI/UX design intelligence for web and mobile projects, including 50+ styles, 161 color palettes, 57 font pairings, UX guidelines, and stack-specific best practices across React, Next.js, Vue, Svelte, Angular, Astro, Flutter, SwiftUI, React Native, and HTML/Tailwind.",
+      "category": "design",
+      "tags": [
+        "ui-ux",
+        "design-system",
+        "web",
+        "mobile",
+        "color-palettes"
+      ],
+      "risk": "safe",
+      "platforms": [
+        "All (GitHub Copilot",
+        "Claude Code",
+        "Codex",
+        "OpenCode",
+        "Gemini CLI",
+        "Antigravity",
+        "Cursor",
+        "AdaL)"
+      ],
+      "triggers": []
+    }
+  ]
+}

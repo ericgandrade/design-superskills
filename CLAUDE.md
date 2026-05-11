@@ -2,7 +2,7 @@
 
 **design-superskills** — 9 AI skills for UI/UX design, brand, design systems, diagrams, and presentations.
 
-- **npm package**: `design-superskills` (v1.0.1) — `npx design-superskills` — **9 skills**
+- **npm package**: `design-superskills` (v1.0.2) — `npx design-superskills` — **9 skills**
 - **GitHub**: `https://github.com/ericgandrade/design-superskills`
 
 ## Skills (9)

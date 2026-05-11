@@ -1,6 +1,6 @@
 {
   "name": "design-superskills",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "9 AI skills for UI/UX design, brand identity, design systems, styling, diagrams, presentations, and banners.",
   "author": {
     "name": "Eric Andrade",
@@ -10,5 +10,13 @@
   "repository": "https://github.com/ericgandrade/design-superskills",
   "license": "MIT",
   "skills": "skills/",
-  "keywords": ["design", "ui-ux", "brand", "design-system", "diagrams", "ai", "skills"]
+  "keywords": [
+    "design",
+    "ui-ux",
+    "brand",
+    "design-system",
+    "diagrams",
+    "ai",
+    "skills"
+  ]
 }
