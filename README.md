@@ -2,7 +2,7 @@
 
 9 AI skills for UI/UX design, brand identity, design systems, diagrams, presentations, and banner design. Install once across all 8 AI platforms.
 
-![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.3-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Skills](https://img.shields.io/badge/skills-9-brightgreen.svg)
 ![Platforms](https://img.shields.io/badge/platforms-8-orange.svg)
@@ -225,4 +225,4 @@ MIT - See [LICENSE](./LICENSE) for details.
 
 **Built with ❤️ by [Eric Andrade](https://github.com/ericgandrade)**
 
-*Version 1.0.2 | May 2026*
+*Version 1.0.3 | May 2026*
